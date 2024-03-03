@@ -23,7 +23,7 @@ const Login: React.FunctionComponent = () => {
           <p className="text-[#D6DBD5] text-[20px]">پنل تامین کنندگان</p>
         </div>
       </div>
-      {/* OK */}
+      
       <div className="w-[520px]  py-10 h-[675px] bg-white  rounded-2xl flex flex-col justify-around items-center">
         <h1 className="text-lg font-bold ">ورود به داشبورد</h1>
         {/* <form
