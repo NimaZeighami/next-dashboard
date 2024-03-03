@@ -20,6 +20,7 @@ const Login: React.FunctionComponent = () => {
           className="w-8 h-8 flex justify-center items-center"
           src={require('../assets/images/small-logo.png')}
         /> */}
+        {/* OOK */}
           <p className="text-[#D6DBD5] text-[20px]">پنل تامین کنندگان</p>
         </div>
       </div>
